@@ -1,0 +1,7 @@
+{
+  "name": "13-temporizador",
+  "packageManager": "yarn@3.3.1",
+  "dependencies": {
+    "node-schedule": "^2.1.1"
+  }
+}

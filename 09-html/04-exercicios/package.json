@@ -1,0 +1,13 @@
+{
+  "name": "04-exercicios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -c-1 .",
+    "start-port-3000": "http-server ./ -p 3000"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
